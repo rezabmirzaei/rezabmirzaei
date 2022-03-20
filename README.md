@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezabmirzaei
 - 👀 I’m interested in software development and DevOps
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anythong related to fintech
+- 💞️ I’m looking to collaborate on anything related to game development or fintech
 
 <!---
 rezabmirzaei/rezabmirzaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
