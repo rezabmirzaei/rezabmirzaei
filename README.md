@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezabmirzaei
-- 👀 I’m interested in software development and DevOps
-- 🌱 I’m currently learning React
+- 👀 I’m interested in software/game development, DevOps and cloud services
+- 🌱 I’m currently learning React and (re)learning Unity
 - 💞️ I’m looking to collaborate on anything related to game development or fintech
 
 <!---
