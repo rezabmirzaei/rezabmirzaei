@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezabmirzaei
 - 👀 I’m interested in software/game development
-- 🌱 I’m currently trying to establish a small game dev company: Dreamware Games
+- 🌱 I run a small game dev company: [Dreamware Games](https://dreamware.games/)
 - 💞️ I’m looking to collaborate on anything related to game development
 
 <!---
